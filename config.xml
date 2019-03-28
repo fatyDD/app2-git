@@ -38,6 +38,6 @@
  
  <!-- colocar icono app -->
  
- <icon src="imagenes/internet.png" />
+ <icon src="res/android/mdpi.png" />
  
  </widget>
